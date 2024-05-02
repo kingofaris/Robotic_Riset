@@ -1,6 +1,6 @@
 # Taking Dataset From Webcam
 
-###Requirement
+## Requirement
 1. OpenCv
 ```
 $ pip install opencv-python
